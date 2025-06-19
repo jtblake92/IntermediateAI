@@ -10,7 +10,7 @@ Each folder in this repository corresponds to a specific coding lab or interacti
 
 - ✅ Python scripts used in the lesson
 
-- 📝 A `README.md` file explaining how the code works step-by-step
+- 📝 A `Code Breakdown.md` file explaining how the code works step-by-step
 
 - 📊 Visual outputs (where applicable) such as confusion matrices, prediction plots, or decision trees
 
