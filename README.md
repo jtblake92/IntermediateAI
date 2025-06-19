@@ -20,21 +20,18 @@ Each folder in this repository corresponds to a specific coding lab or interacti
 
 ---
 
-## 🧪 How to Use This Repo
+## 🧪 You’re encouraged to:
+- Fork this repo and add your own ideas
+  
+- Build on the examples and improve them
+  
+- Share your version in the `learner-submissions/` folder or via a Pull Request
+  
+- Explore what others have built and learn from it!
 
-1. Clone or download the repository to your machine
+📬 Want to contribute? Check out [CONTRIBUTING.md](CONTRIBUTING.md)
 
-2. Open any folder to access the code for that topic
-
-3. Follow the instructions in each README to run the code
-
-4. You can run the code in:
-
-   - Any local Python environment (Python 3.9+ suggested) (recommended)
-   
-   - Google Colab 
-
-   - Jupyter Notebook
+💡 Questions or cool discoveries? Post in [Discussions](https://github.com/your-org/your-repo/discussions)
 
 
 
