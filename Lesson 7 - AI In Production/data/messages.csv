@@ -1,0 +1,16 @@
+message,category
+"Hi, I was charged twice on my card",billing
+"My card payment failed but money was deducted",billing
+"How do I change my billing address?",billing
+"Please refund my accidental purchase",billing
+"Why is there a new charge on my invoice?",billing
+"The app keeps crashing after login",technical
+"I'm getting an error when I open the app",technical
+"The website won’t load on Safari",technical
+"My data isn’t syncing across devices",technical
+"I can't reset my password",technical
+"Great service, thanks!",feedback
+"Loved the new update!",feedback
+"Awesome support team 👏",feedback
+"I'm impressed with the quick resolution",feedback
+"Very user-friendly interface",feedback
