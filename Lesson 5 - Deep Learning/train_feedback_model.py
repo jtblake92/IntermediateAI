@@ -10,8 +10,12 @@ from sklearn.model_selection import train_test_split
 import tensorflow as tf
 from collections import Counter
 
-# Load feedback log
-df = pd.read_csv("feedback/feedback_log.csv", names=["filepath", "predicted", "correct"])
+
+
+base_path = os.path.dirname(__file__)  # directory of the script
+csv_path = os.path.join(base_path, "feedback", "feedback_log.csv")
+
+df = pd.read_csv(csv_path, names=["filepath", "predicted", "correct"])
 images, labels = [], []
 
 # Load and preprocess images

@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
+import os
 
 def load_data(filepath):
     """Load dataset from CSV file."""
@@ -61,8 +62,10 @@ def cluster_summary(df, cluster_col='Cluster'):
     print(df.groupby(cluster_col)[['Age', 'Annual Income (k$)', 'Spending Score (1-100)']].mean())
 
 def main():
+    base_path = os.path.dirname(__file__)  # directory of the script
+    csv_path = os.path.join(base_path,"Mall_Customers.csv")
     # Step 1: Load and prepare data
-    df = load_data("Mall_Customers.csv")
+    df = load_data(csv_path)
     features = ['Age', 'Annual Income (k$)', 'Spending Score (1-100)']
     X = select_features(df, features)
     X_scaled, _ = scale_features(X)

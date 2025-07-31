@@ -21,7 +21,7 @@ Each folder corresponds to a specific lesson and includes:
 - 📘 A lesson-level `README.md` that explains the core activity or lab  
 - 🎯 Challenges or mini-projects to help reinforce your learning  
 
-**Current Lessons Included:**
+**Lessons Included:**
 
 - `Lesson 2 - Machine Learning`
 - `Lesson 3 - Supervised, Unsupervised and Reinforcement Learning`
@@ -29,13 +29,12 @@ Each folder corresponds to a specific lesson and includes:
 - `Lesson 5 - Deep Learning`
 - `Lesson 7 - AI In Production`
 
-We’ll be adding the remaining lessons in due course as the course expands.
 
 ---
 
 ## ⚙️ How to Run the Code
 
-Each lesson's folder contains Python scripts or Jupyter notebooks. You can run the code in **Google Colab**, **Jupyter Notebook**, or your **local Python environment**.
+Each lesson's folder contains Python scripts.
 
 ### ✅ Before You Start:
 1. **Create a new virtual environment** for this course to keep dependencies clean.
@@ -51,7 +50,7 @@ To work with code from a specific lesson:
 cd "Lesson 3 - Supervised, Unsupervised and Reinforcement Learning"
 ```
 
-Then run the code via Jupyter, VSCode, or your preferred IDE.
+Then run the code via VSCode or your preferred IDE.
 
 ---
 
@@ -81,7 +80,7 @@ Learning is better together!
 - Help others who are stuck
 - Post your mini-projects or stretch solutions
 
-Don't be afraid to ask "basic" questions — this course is designed to help you grow confidently, no matter your starting point.
+Don't be afraid to ask "basic" questions this course is designed to help you grow confidently, no matter your starting point.
 
 ---
 
@@ -91,8 +90,6 @@ This repo is an open learning companion. Use it alongside the videos, slides, an
 
 Have fun, keep experimenting, and don't forget:
 
-> ✨ "The best way to learn AI is to build it." ✨
+>  "The best way to learn AI is to build it."
 
-Happy coding! 🚀
-
-— The AI Intermediate Team
+Happy coding! 
